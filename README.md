@@ -33,9 +33,10 @@ Por otro lado, **Gradient Boosting Machine** también muestra un rendimiento com
 
 En resumen, **Support Vector Machine (SVM**) es la opción más viable con un buen equilibrio entre precisión y capacidad predictiva.
 
-![Resultados de Modelos](https://github.com/AndresSepu/Project_molecular/blob/main/Captura%20de%20pantalla%202024-10-24%20161109.png?raw=true)
+![Resultados de Modelos](https://github.com/AndresSepu/Proyecto_molecular/blob/main/Captura%20de%20pantalla%202024-10-24%20161109.png)
+
 
 
 ---
 
-**
+
